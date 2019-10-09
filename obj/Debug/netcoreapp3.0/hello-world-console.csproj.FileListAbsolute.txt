@@ -1,0 +1,11 @@
+/Users/mayurj/Projects/DotNet/dotnet-core/hello-world-console/bin/Debug/netcoreapp3.0/hello-world-console
+/Users/mayurj/Projects/DotNet/dotnet-core/hello-world-console/bin/Debug/netcoreapp3.0/hello-world-console.deps.json
+/Users/mayurj/Projects/DotNet/dotnet-core/hello-world-console/bin/Debug/netcoreapp3.0/hello-world-console.runtimeconfig.json
+/Users/mayurj/Projects/DotNet/dotnet-core/hello-world-console/bin/Debug/netcoreapp3.0/hello-world-console.runtimeconfig.dev.json
+/Users/mayurj/Projects/DotNet/dotnet-core/hello-world-console/bin/Debug/netcoreapp3.0/hello-world-console.dll
+/Users/mayurj/Projects/DotNet/dotnet-core/hello-world-console/bin/Debug/netcoreapp3.0/hello-world-console.pdb
+/Users/mayurj/Projects/DotNet/dotnet-core/hello-world-console/obj/Debug/netcoreapp3.0/hello-world-console.csprojAssemblyReference.cache
+/Users/mayurj/Projects/DotNet/dotnet-core/hello-world-console/obj/Debug/netcoreapp3.0/hello-world-console.AssemblyInfoInputs.cache
+/Users/mayurj/Projects/DotNet/dotnet-core/hello-world-console/obj/Debug/netcoreapp3.0/hello-world-console.AssemblyInfo.cs
+/Users/mayurj/Projects/DotNet/dotnet-core/hello-world-console/obj/Debug/netcoreapp3.0/hello-world-console.dll
+/Users/mayurj/Projects/DotNet/dotnet-core/hello-world-console/obj/Debug/netcoreapp3.0/hello-world-console.pdb
